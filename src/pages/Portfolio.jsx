@@ -2,6 +2,7 @@ import { Project } from "../componets/Project";
 
 const projectPropsList = [
   {
+    projectImg: "./",
     projectLink: "https://text-editor-4g9y.onrender.com",
     repoLink: "https://github.com/heyitsmejadah/text-editor",
     title: "Text Editor",
